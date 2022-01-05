@@ -1,5 +1,5 @@
 # CrossPlatformDev
-CrossPlatformDev
+Cross Platform Development with .NET Core
 
 
 List versions of SDKs [ dotnet --list-sdks ]
